@@ -1,0 +1,41 @@
+
+aside {
+  width: 300px;
+}
+
+
+
+p {
+	background-color: gold;
+	font-family: tahoma;
+}
+
+header {
+  height: 150px;
+}
+
+.bottom {
+  position: absolute;
+  bottom: 10px;
+  left: 60px;
+  background-color: yellow;
+}
+
+.top {
+  position: absolute;
+  bottom: 15px;
+  left: 60px;
+  background-color: green;
+  z-index: 2;
+}
+
+#page-wrap {
+     width: 800px;
+     margin: 200 auto;
+}
+
+main {
+  width: 600px;
+  margin: 200 auto; 
+  background-color: brown;
+}
